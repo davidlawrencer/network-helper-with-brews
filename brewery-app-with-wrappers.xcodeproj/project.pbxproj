@@ -15,6 +15,7 @@
 		545BA64B232158EC003C2D2D /* BrewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545BA64A232158EB003C2D2D /* BrewModel.swift */; };
 		545BA64D23216398003C2D2D /* AppError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545BA64C23216397003C2D2D /* AppError.swift */; };
 		545BA64F23216736003C2D2D /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545BA64E23216736003C2D2D /* NetworkManager.swift */; };
+		545BA65123218503003C2D2D /* ImageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545BA65023218503003C2D2D /* ImageHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		545BA64A232158EB003C2D2D /* BrewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrewModel.swift; sourceTree = "<group>"; };
 		545BA64C23216397003C2D2D /* AppError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppError.swift; sourceTree = "<group>"; };
 		545BA64E23216736003C2D2D /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		545BA65023218503003C2D2D /* ImageHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				545BA63C2321575E003C2D2D /* Main.storyboard */,
 				545BA64A232158EB003C2D2D /* BrewModel.swift */,
 				545BA64C23216397003C2D2D /* AppError.swift */,
+				545BA65023218503003C2D2D /* ImageHelper.swift */,
 				545BA64E23216736003C2D2D /* NetworkManager.swift */,
 				545BA63F23215760003C2D2D /* Assets.xcassets */,
 				545BA64123215760003C2D2D /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				545BA64F23216736003C2D2D /* NetworkManager.swift in Sources */,
 				545BA6392321575E003C2D2D /* AppDelegate.swift in Sources */,
 				545BA64B232158EC003C2D2D /* BrewModel.swift in Sources */,
+				545BA65123218503003C2D2D /* ImageHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
